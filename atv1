@@ -1,0 +1,7 @@
+base = int(input('insira a base do triangulo'))
+
+altura = int(input('insira a altura do triangulo'))
+
+area = base * altura
+
+print(area)
